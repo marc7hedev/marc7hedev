@@ -1,6 +1,6 @@
 # 👋 ¡Hola, soy Marco Rangel!
 
-Soy un desarrollador apasionado por la creación de aplicaciones web modernas y eficientes. Aunque domino tecnologías de frontend, mi verdadera pasión es el backend, donde me especializo en PHP, Laravel y la gestión de bases de datos tanto relacionales como no relacionales. 🚀
+Soy un desarrollador apasionado por la creación de aplicaciones web modernas y eficientes. Aunque domino tecnologías de frontend, mi verdadera pasión es el backend, donde me especializo en PHP, NodeJs y la gestión de bases de datos tanto relacionales como no relacionales. 🚀
 
 
 ## 🛠️ Habilidades Técnicas
@@ -20,7 +20,7 @@ Soy un desarrollador apasionado por la creación de aplicaciones web modernas y 
   - ![WooCommerce](https://img.shields.io/badge/-WooCommerce-96588A?logo=woocommerce&logoColor=white)
 
 - **Áreas de Especialización**:
-  - Backend: Profundizando en PHP y Laravel.
+  - Backend: Profundizando en PHP y NodeJs.
   - Bases de datos: Relacionales (MySQL) y no relacionales (MongoDB).
   - Seguridad: Protección contra inyecciones SQL, preparación, filtrado y depurado de consultas, inicios de sesión seguros y encriptaciones.
 
