@@ -28,7 +28,7 @@ Soy un desarrollador apasionado por la creación de aplicaciones web modernas y 
 
 ## 🌟 Proyectos Destacados
 
-### 📋 [Proyecto CRUD con PHP (MVC)](https://github.com/marc7hedev/MVC-CRUD)
+### 📋 [Proyecto CRUD con PHP (MVC)](https://github.com/marc7hedev/MVCProject)
 Sistema de gestión de datos robusto y seguro, utilizando el modelo vista controlador (MVC).
 - **Tecnologías**: PHP, MySQL, Bulma
 
@@ -46,6 +46,7 @@ Portafolio dinámico con animaciones de desplazamiento y modo oscuro.
 
 - **Email**: [contacto@marco-rangel.tech](mailto:contacto@marco-rangel.tech) | [rangelmarco1994@gmail.com](mailto:rangelmarco1994@gmail.com)
 - **GitHub**: [marc7hedev](https://github.com/marc7hedev)
+- **X**: [marc7hedev](https://x.com/MarcSie7e)
 
 ---
 
