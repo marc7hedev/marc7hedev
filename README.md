@@ -1,6 +1,6 @@
 # 👋 ¡Hola, soy Marco Rangel!
 
-Soy un desarrollador apasionado por la creación de aplicaciones web modernas y eficientes. Aunque domino tecnologías de frontend, mi verdadera pasión es el backend, donde me especializo en PHP, NodeJs y la gestión de bases de datos tanto relacionales como no relacionales. 🚀
+Soy un desarrollador apasionado por la creación de aplicaciones web modernas y eficientes. Aunque manejo tecnologías de frontend, mi verdadera pasión es el backend, donde me especializo en PHP, NodeJs y la gestión de bases de datos tanto relacionales como no relacionales. 🚀
 
 
 ## 🛠️ Habilidades Técnicas
