@@ -20,6 +20,7 @@ Soy un desarrollador apasionado por la creación de aplicaciones web modernas y 
   - ![WooCommerce](https://img.shields.io/badge/-WooCommerce-96588A?logo=woocommerce&logoColor=white)
 
 - **Áreas de Especialización**:
+  - Desarrollo web: Creación de páginas web y soluciones de e-commerce.
   - Backend: Profundizando en PHP y NodeJs.
   - Bases de datos: Relacionales (MySQL) y no relacionales (MongoDB).
   - Seguridad: Protección contra inyecciones SQL, preparación, filtrado y depurado de consultas, inicios de sesión seguros y encriptaciones.
