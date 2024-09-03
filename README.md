@@ -59,7 +59,7 @@
 ### 💼 React Portfolio
 - **Demo**: [marco-rangel.tech](https://marco-rangel.tech/)
 - **Repositorio**: [GitHub](https://github.com/marc7hedev/portfolio2024)
-- **Descripción**: Portafolio dinámico con animaciones de desplazamiento y modo oscuro.
+- **Descripción**: Portafolio dinámico con efectos destacados, animaciones de desplazamiento y modo oscuro.
 - **Tecnologías**:
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="25" height="25"/> </a>
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="25" height="25"/> </a>
